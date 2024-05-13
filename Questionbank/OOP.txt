@@ -1,0 +1,189 @@
+a5380ee
+General
+
+2efcde9
+What is the output of the following code  cout << "Just Now" ;
+option: Hello
+option: World
+option dabfac4: Just Now
+option: None of the above
+
+2efcde9
+What is a variable in programming?
+option: A keyword used to define a function
+option: A type of loop used for iteration
+option dabfac4: A value that can change during program execution
+option: None of the above
+
+2efcde9
+What is the purpose of conditional statements in programming?
+option: To repeat a block of code a certain number of times
+option: To execute a block of code only if a certain condition is met
+option dabfac4: To break out of a loop
+option: None of the above
+
+b94d27b
+Pakistan came into being on 14 Aug 1947
+option dabfac4: True
+option: False
+
+b94d27b
+A compiler is a software tool that translates high-level programming languages into machine code.
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a string is a data type that represents text.
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a string variable can store word
+option dabfac4: True
+option: False
+
+2efcde9
+What is the square of -2
+option dabfac4: 4
+option: -4
+option: 2
+option: -2
+
+88f7ace
+Write 100 words essay on one of the following:
+1. Recent successes of Pakistan's cricket team
+2. Role/influence of ChatGPT in the teaching/learning process
+
+b94d27b
+In programming, a variable is a container that holds a value.
+option dabfac4: True
+option: False
+
+
+88f7ace
+Write 100 words summary on movie of "Singham"
+
+a5380ee
+C++
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option dabfac4: . (dot)
+option:  (scope resolution)
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: num_students
+option: _score
+option dabfac4: 1student
+option: totalScore
+
+2efcde9
+Which of the following is an example of a high-level programming language?
+option: Assembly language
+option: C language
+option dabfac4: Python
+option:  Machine language
+
+2efcde9
+What is the purpose of a class in object-oriented programming?
+option: To perform a specific task
+option: C To store data
+option dabfac4: To define a specific data type
+option: To repeat a block of code a certain number of times
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a boolean variable can only have two values?
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a float variable can store value in decimal?
+option dabfac4: True
+option: False
+88f7ace
+Explain why you study in fast
+
+b94d27b
+In programming, a function can only return a single value.
+option : True
+option dabfac4: False
+
+88f7ace
+Explain the word success
+
+a5380ee
+Programming
+
+2efcde9
+Which of the following data types is not numeric?
+option dabfac4: string
+option: float
+option: double
+option: int
+
+2efcde9
+Which of the following is a datatype
+option dabfac4: string
+option: cute
+option: angry
+option: class
+
+b94d27b
+In programming, a variable is a container that holds a value.
+option : True
+option dabfac4: False
+
+b94d27b
+In programming, Answer is False
+option : True
+option dabfac4: False
+
+b94d27b
+In programming, char is an array?
+option : True
+option dabfac4: False
+
+2efcde9
+Which of the following is not a programming language?
+option dabfac4: CSS
+option:  HTML
+option: Python
+option: SQL
+
+
+b94d27b
+The main function is not where a program typically starts executing
+option : True
+option dabfac4: False
+
+2efcde9
+What is the purpose of a function in programming?
+option: To store data
+option: To repeat a block of code a certain number of times
+option dabfac4: To perform a specific task
+option: To declare a variable
+
+88f7ace
+Explain the use of this pointer in c++ programming
+
+
+b94d27b
+In programming, an array is a step-by-step procedure for solving a problem
+option : True
+option dabfac4: False
+
+88f7ace
+Explain the use of this function in c++ programming

@@ -1,0 +1,180 @@
+a5380ee
+General questions
+
+2efcde9
+Charge on Neutron? 
+option: Positive
+option: Negative
+option dabfac4: Neutral
+option: None of the above
+
+2efcde9
+Current flow means?
+option: flow of water
+option: gas
+option dabfac4: flow electron
+option: nope
+
+2efcde9
+Freezing point of Water? 
+option: 100C
+option: 10C
+option dabfac4: 0C
+option: None of the above
+
+b94d27b
+The first president of Pakistan Muslim League -Khaliquzzaman
+option dabfac4: True
+option: False
+
+b94d27b
+Who put martial law in 1977?  -Zia Ul HAq
+option dabfac4: True
+option: False
+
+b94d27b
+Zakat obliged in 2nd hijri? 
+option dabfac4: True
+option: False
+
+2efcde9
+Indus Basin Treaty? 
+option dabfac4: 196-
+option: -4
+option: 2
+option: -2
+
+b94d27b
+This is true
+option dabfac4: True
+option: False
+
+88f7ace
+Write 100 words essay on one of the following:
+1. why one should choose fast (you must disagree)
+2. how to survive at fast tip101
+
+a5380ee
+C++ programming
+
+88f7ace
+Write 100 words summary on cartoon of "dora the explorer"
+
+
+2efcde9
+First marshal law 
+option: 1924
+option: 2023
+option dabfac4: 1958
+option: from 1947 till now
+
+2efcde9
+All India Muslim League founded in?
+option: karachi
+option: lahore
+option dabfac4: Dhaka
+option: kolkata
+
+2efcde9
+Total number of Us states 
+option: non
+option: 40
+option dabfac4: 50
+option: 60
+
+2efcde9
+NATO stand for
+option: Nothing As T O
+option: National assemble to oraganizations
+option dabfac4:  North Atlantic Treaty Org
+option: idk
+
+b94d27b
+Heptagon has 7 sides
+option dabfac4: True
+option: False
+
+b94d27b
+artition of Bengal was on 1971
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a boolean variable can only have two values
+option dabfac4: True
+option: False
+
+
+88f7ace
+Explain why you study in Nust
+
+b94d27b
+ Electrons revolve around Nuclease
+option : True
+option dabfac4: False
+
+
+88f7ace
+Explain the word void
+
+
+a5380ee
+Programming
+
+2efcde9
+Which of the following data types is numeric?
+option dabfac4: int
+option: char
+option: bool
+option: string
+
+2efcde9
+Which of the following data types is not numeric?
+option dabfac4: string
+option: float
+option: double
+option: int
+
+b94d27b
+In programming, a array is a container that holds alot of values.
+option : True
+option dabfac4: False
+
+b94d27b
+hint Answer is False
+option : True
+option dabfac4: False
+
+2efcde9
+Which of the following is a programming language?
+option dabfac4: HtML
+option:  CSS
+option: English
+option: Urdu
+
+88f7ace
+Explain anything that you want
+
+
+b94d27b
+The main function is where a program typically ends
+option : True
+option dabfac4: False
+
+2efcde9
+What is the purpose of a library in programming?
+option: To store alot of data
+option: To make functions
+option dabfac4: To get access to functions
+option: To declare a variable
+
+b94d27b
+In programming, a variable can store multiple data
+option : True
+option dabfac4: False
+
+
+
+
+88f7ace
+Explain life

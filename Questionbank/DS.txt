@@ -1,0 +1,189 @@
+a5380ee
+General
+
+2efcde9
+What is a metaphor?
+option: A comparison using "like" or "as"
+option: A type of punctuation
+option dabfac4: A comparison not using "like" or "as"
+option: A type of sentence structure
+
+2efcde9
+What is a simile?
+option: A type of verb tense
+option: A comparison not using "like" or "as"
+option dabfac4:  A comparison using "like" or "as"
+option: A type of sentence structure
+
+2efcde9
+What is a personification?
+option: . A type of sentence structure
+option: A type of adverb
+option dabfac4: Giving human qualities to animals or objects
+option: Giving animal qualities to humans
+
+b94d27b
+A verb describes an action or state of being
+option dabfac4: True
+option: False
+
+b94d27b
+A simile is a comparison using "like" or "as". 
+option dabfac4: True
+option: False
+
+b94d27b
+A proper noun is always capitalized. 
+option dabfac4: True
+option: False
+
+b94d27b
+An interjection expresses strong feeling or emotion.
+option dabfac4: True
+option: False
+
+2efcde9
+What is a hyperbole?
+option dabfac4: An exaggerated statement
+option: A statement that is not true
+option: pronoun
+option: verb tense
+
+88f7ace
+Write 100 words essay on one of the following:
+1. Recent successes of Pakistan's cricket team
+2. Role/influence of ChatGPT in the teaching/learning process
+
+b94d27b
+A conjunction is a word that connects two words or phrases.
+option dabfac4: True
+option: False
+
+
+88f7ace
+Write 100 words summary on movie of "Singham"
+
+a5380ee
+C++
+
+2efcde9
+What is the subject of a sentence?
+option:The action
+option: object
+option dabfac4: Who or what the sentence is about
+option:  adverb
+
+2efcde9
+What is a verb?
+option: num_students
+option: _score
+option dabfac4:  An action or state of being
+option: totalScore
+
+2efcde9
+What is a noun?
+option: object
+option: adjective
+option dabfac4: A person, place, or thing
+option:  describing word
+
+2efcde9
+What is a conjunction?
+option: A person, place, or thing
+option: An adverb
+option dabfac4: A word that connects two words or phrases
+option: An adjective
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+A pronoun takes the place of a noun in a sentence. 
+option dabfac4: True
+option: False
+
+b94d27b
+Personification is giving human qualities to animal/object.
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a float variable can store value in decimal?
+option dabfac4: True
+option: False
+88f7ace
+Explain and give example of similie
+
+b94d27b
+A subject is the action in a sentence. 
+option : True
+option dabfac4: False
+
+88f7ace
+Explain the word metaphor
+
+a5380ee
+Programming
+
+2efcde9
+What is a pronoun?
+option dabfac4: A word that takes the place of a noun in a sentence
+option: A person, place, or thing
+option: An adverb
+option:  A type of punctuation
+
+2efcde9
+What is an interjection?
+option dabfac4: A word that expresses strong feeling or emotion
+option: A word that describes a verb
+option: An action or state of being
+option: A type of sentence structure
+
+b94d27b
+In programming, a variable is a container that holds a value.
+option : True
+option dabfac4: False
+
+b94d27b
+In programming, Answer is False
+option : True
+option dabfac4: False
+
+b94d27b
+In programming, char is an array?
+option : True
+option dabfac4: False
+
+2efcde9
+What is a fragment?
+option dabfac4:An incomplete sentence
+option: A complete sentence
+option: Noun
+option: A type of verb tense
+
+
+b94d27b
+A sentence fragment is a complete sentence.
+option : True
+option dabfac4: False
+
+2efcde9
+What is a run-on sentence?
+option: A sentence that is too short
+option: A sentence with too much punctuation
+option dabfac4: Two or more sentences joined together improperly
+option: A sentence with no punctuation
+
+88f7ace
+Explain the use of ads pointer in todays life
+
+
+b94d27b
+A hyperbole is a statement that is not true.
+option : True
+option dabfac4: False
+
+88f7ace
+Explain the use of this simiile in reallife

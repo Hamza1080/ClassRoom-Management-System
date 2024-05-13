@@ -1,0 +1,189 @@
+a5380ee
+General
+
+2efcde9
+Who is the current president of the United States?
+option: Donald Trump
+option:  Barack Obama
+option dabfac4: Joe Biden
+option:  George W. Bush
+
+2efcde9
+What is the capital city of Canada?
+option: Vancouver
+option: Montreal
+option dabfac4: Ottawa
+option: Toronto
+
+2efcde9
+What is the smallest planet in our solar system?
+option: Mars
+option: TVenus
+option dabfac4: Mercury
+option: Earth
+
+b94d27b
+The Statue of Liberty was a gift from France.
+option dabfac4: True
+option: False
+
+b94d27b
+The Great Wall of China is visible from space.
+option dabfac4: True
+option: False
+
+b94d27b
+Water freezes at 0 degrees Celsius.
+option dabfac4: True
+option: False
+
+b94d27b
+Elephants are the largest land animals.
+option dabfac4: True
+option: False
+
+2efcde9
+Which famous scientist is credited with discovering the theory of relativity?
+option dabfac4: Albert Einstein
+option: Isaac Newton
+option: Charles Darwin
+option: Galileo Galilei
+
+88f7ace
+Write 100 words essay on one of the following:
+1. Your Life
+
+b94d27b
+The Taj Mahal is located in India.
+option dabfac4: True
+option: False
+
+
+88f7ace
+Write 100 words summary on movie of "Weldone"
+
+a5380ee
+C++
+
+2efcde9
+Which river is the longest in the world?
+option: Amazon River
+option: Mississippi River
+option dabfac4: Nile River
+option: Yangtze River
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: num_students
+option: _score
+option dabfac4: 1student
+option: totalScore
+
+2efcde9
+Who wrote the Harry Potter book series?
+option: Veronica Roth
+option: Stephenie Meyer
+option dabfac4: J.K. Rowling
+option:  Suzanne Collins
+
+2efcde9
+Which country is known as the "Land of the Rising Sun"?
+option: Pakistan
+option:  China
+option dabfac4: Japan
+option: Russia
+
+b94d27b
+The Nile River is the longest river in Africa.
+option dabfac4: True
+option: False
+
+b94d27b
+Bees can communicate with each other by dancing.
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a boolean variable can only have two values?
+option dabfac4: True
+option: False
+
+b94d27b
+In programming, a float variable can store value in decimal?
+option dabfac4: True
+option: False
+
+88f7ace
+Explain how to be productive
+
+b94d27b
+The sun revolves around the earth.
+option : True
+option dabfac4: False
+
+88f7ace
+Explain how can one stay active
+
+a5380ee
+Programming
+
+2efcde9
+What is the largest organ in the human body?
+option dabfac4: Skin
+option: Brain
+option: Heart
+option: Lungs
+
+2efcde9
+Who invented the telephone?
+option dabfac4: Alexander Graham Bell
+option: Thomas Edison
+option: Benjamin
+option: Nikola Tesla
+
+b94d27b
+The Eiffel Tower is located in London.
+option : True
+option dabfac4: False
+
+b94d27b
+Pluto is still considered a planet in our solar system.
+option : True
+option dabfac4: False
+
+b94d27b
+The human body has 209 bones.
+option : True
+option dabfac4: False
+
+2efcde9
+Which of the following is not a programming language?
+option dabfac4: CSS
+option:  HTML
+option: Python
+option: SQL
+
+
+b94d27b
+The Olympic Games are held every two years.
+option : True
+option dabfac4: False
+
+2efcde9
+Which animal is known as the "Ship of the Desert"?
+option: Horse
+option: Giraffe
+option dabfac4: Camel
+option: Rhino
+
+88f7ace
+Explain why we were taught OOP
+
+
+b94d27b
+Penguins can only live in cold climates.
+option : True
+option dabfac4: False
+
+88f7ace
+What happens if we only use this operator
